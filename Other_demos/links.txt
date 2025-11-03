@@ -1,0 +1,35 @@
+**Links to download and run the demos**
+
+
+- pickandplace demo
+
+https://isaac-sim.github.io/IsaacLab/main/source/overview/imitation-learning/teleop_imitation.html
+
+
+- franka robot stacking cubes demo
+
+https://isaac-sim.github.io/IsaacLab/main/source/overview/imitation-learning/augmented_imitation.html
+
+
+
+-h1 unitree locomotion demo
+
+https://isaac-sim.github.io/IsaacLab/main/source/overview/showroom.html
+
+
+
+- mujoco walking simulation
+
+
+https://github.com/FFTAI/Wiki-GRx-Mujoco/tree/gr1
+
+I'll provide with another readme.md file with proper instructions since the github doesnt have enough instructions. if extra readme is not provided, please refer to command screenshot for commands to run this demo
+
+
+
+
+
+
+
+
+
